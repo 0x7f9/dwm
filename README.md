@@ -1,1 +1,1 @@
-configs
+dwm keybinds
